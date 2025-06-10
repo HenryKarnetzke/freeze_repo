@@ -1,4 +1,4 @@
 | Version | Erzeugt am (UTC) | SHA-256 | Signatur-File | Upload-Ort | Notizen |
 |---------|------------------|----------------------------------|----------------------------|------------|---------|
-| v1.0    | 2025-06-08T16:13 | b4d492902d60eac1c736c8196922e5004baf86328aedf0725ba46e79556377df | snapshot_v1.0.sha256.asc | https://github.com/HenryKarnetzke/freeze_repo/raw/main/snapshot_v1.0.tar.gz
- | erster vollständiger Freeze |
+| v1.1 | 2025-06-10T21:12 | <SHA256-Hash> | snapshot_v2025.06.10T211238.sha256.asc | ⏳ | manual |
+| erster vollständiger Freeze | QmVZyomZgSuG7CpCFRE67ynJep3fE9H8NMogDwHjoHjvFi
