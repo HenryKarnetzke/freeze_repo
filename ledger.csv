@@ -1,6 +1,19 @@
-ItemID,Statement,Risk,ΔValue,Utility,ProofURI
-H-000,"In den vorliegenden Informationen werden verschiedene Themen behandelt, darunter die Nutzung von ChatGPT, Datenexport in der ChatGPT-App, Sicherung von Chatverläufen, Umgang mit Dogmen, Gehirnaktivität, Bewertungen von Benutzern und Konversationstitel. Es wird auf die Nutzung von Systemautonomie für verschiedene Aktionen hingewiesen, wie Wertanalyse, Zukunftssimulation und Lizenzfreigabe. Des Weiteren werden Datensätze mit Feuchtigkeits-, Licht- und Nährstoffwerten beschrieben, sowie Möglichkeiten zum Export von Chatverläufen in verschiedenen Formaten",0.70,6,2.98,bullets2/container_sensors.md#L3
-H-001,"Die Anleitungen zur Sicherung von Chatverläufen auf Android-Geräten variieren je nach Methode, von manuellem Kopieren bis zur Verwendung von Browser-Erweiterungen. Es wird empfohlen, Offline-Texteditoren für sicheres Kopieren zu verwenden und regelmäßige Backups durchzuführen. Zudem werden verschiedene Möglichkeiten zur Exportierung von ChatGPT-Konversationen in unterschiedliche Formate wie Markdown, PDF oder HTML aufgezeigt",0.45,8,3.97,"bullets2/conversations (Kopie).md#L131"
-H-002,"Die Diskussionen über Dogmen und Gehirnaktivität beleuchten Mythen und Fakten zu diesen Themen. Es wird betont, dass Menschen ihr gesamtes Gehirn nutzen und nicht nur einen kleinen Prozentsatz. Die Bedeutung von BCIs für die Kommunikation von ALS-Patienten wird ebenfalls erwähnt",0.30,7,5.19,bullets2/conversations.md#83
-H-003,"Die Bewertungen von Benutzern und Konversationstitel geben Einblicke in die Interaktionen und Themen, die in den Chats behandelt werden. Es wird auf positive und negative Bewertungen hingewiesen, sowie auf verschiedene Konversationstitel ohne spezifische Details zu den Inhalten",0.60,7,3.84,"bullets2/message_feedback (Kopie).md#L2"
-H-004,"Insgesamt bieten die vorliegenden Informationen eine Vielzahl von Einblicken in technologische, wissenschaftliche und soziale Themen, die von Systemautonomie über Datenexport und Chatverläufe bis hin zu Dogmen und Gehirnaktivität reichen",0.70,8,3.97,bullets2/conversations.md#L143
+Statement,Risk,ΔValue,Utility
+"Organisation und Priorisierung von Aufgaben, um sie effizient und effektiv zu erledigen.",0.2,9.5,7.78
+"In der heutigen schnelllebigen Welt ist es wichtig, effektive Zeitmanagement-Fähigkeiten",0.2,8.5,6.96
+"zu entwickeln, um produktiv zu bleiben und Stress zu reduzieren. - Zeitmanagement",0.2,8.5,6.96
+"beinhaltet die Planung, Organisation und Priorisierung von Aufgaben, um sie effizient und",0.2,8.5,6.96
+effektiv zu erledigen. - Eine gute Zeitmanagement-Strategie umfasst das Setzen von klaren,0.2,8.5,6.96
+"Zielen, das Erstellen eines Zeitplans und das Vermeiden von Ablenkungen. - Durch die",0.2,8.5,6.96
+"Nutzung von Tools wie Kalendern, To-Do-Listen und Zeitmanagement-Apps können Menschen ihre",0.2,8.5,6.96
+"Zeit besser verwalten und ihre Produktivität steigern. - Es ist auch wichtig, Pausen",0.2,8.5,6.96
+"einzuplanen und sich selbst zu belohnen, um die Motivation aufrechtzuerhalten und ein",0.2,8.5,6.96
+gesundes Gleichgewicht zwischen Arbeit und Freizeit zu schaffen.  In der heutigen,0.2,8.5,6.96
+"hektischen Welt ist es unerlässlich, effektive Zeitmanagement-Fähigkeiten zu entwickeln,",0.2,8.5,6.96
+"um produktiv zu bleiben und Stress zu reduzieren. Zeitmanagement beinhaltet die Planung,",0.2,8.5,6.96
+"Eine gute Zeitmanagement-Strategie umfasst das Setzen von klaren Zielen, das Erstellen",0.2,8.5,6.96
+eines Zeitplans und das Vermeiden von Ablenkungen. Durch die Nutzung von Tools wie,0.2,8.5,6.96
+"Kalendern, To-Do-Listen und Zeitmanagement-Apps können Menschen ihre Zeit besser verwalten",0.2,8.5,6.96
+"und ihre Produktivität steigern. Es ist auch wichtig, Pausen einzuplanen und sich selbst",0.2,8.5,6.96
+"zu belohnen, um die Motivation aufrechtzuerhalten und ein gesundes Gleichgewicht zwischen",0.2,8.5,6.96
+Arbeit und Freizeit zu schaffen.,0.2,5.5,4.5
